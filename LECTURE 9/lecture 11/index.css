@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+     /* background-color: rgb(237, 142, 142);   */
+     font-size: 100px;
+}
+
+#wrapper {
+    /* background: linear-gradient(to left,red,blue); */
+    /* background: linear-gradient(45deg,red,blue,yellow,pink,green);
+     */
+
+/* background: radial-gradient(circle,red,green); */
+/* background-image: url(https://wallpaperaccess.com/full/3259017.jpg); */
+/* border: 1px solid black; */
+/* background-repeat: no-repeat; */
+/* background-position: bottom; */
+/* background-size:cover ; */
+border-width: 20px;
+border-style: solid;
+border-color: red;
+border: 10px solid navy;
+padding: 40px;
+margin: 50px;
+     /* height: 500px;  */
+     }
+
+    p{
+        /* padding: 40px; */
+        /* padding-bottom: 40px; */
+        /* padding: top right bottom left; */
+        border: 1px solid red ;
+        /* padding: 0 40px 0 40px; */
+        padding: 40px 0px 10px;
+    }
+    #daisy {
+        border: 1px solid red;
+        margin: auto;
+        text-align: center;
+    }
+    #mahi{
+        border: 1px solid red ;
+        width: 100px;
+        margin: auto;
+    }
+    span{
+        bottom: 1px solid red ;
+        display:in;
+        margin-top: 400px;
+        /* margin: auto; */
+        /* width: 500px; */
+        /* height: 500px; */
+        
+    }
